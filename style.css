@@ -54,7 +54,7 @@ h2, h4, p {
 
 #bottom-right-section {
   display: inline-block;
-   width: 100%;
+  width: 100%;
   /* For a Desktop-First approach we use the this:
   width: 50%;
   */
